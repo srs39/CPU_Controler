@@ -1,0 +1,12 @@
+Here in FETCH
+Getting ir from memoryContents of IR = 0980
+980I'm in decode
+opcode = 0
+Rd is R2
+Rs is R3
+sext = 0
+I'm evaluating the address
+Fetching opperands
+ADD- alu a is 0 and b is 0
+Executing the function
+ADD = 114
